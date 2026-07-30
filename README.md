@@ -193,7 +193,7 @@ _Best-of lists with general overviews on tools & libraries for a specific progra
 
 <details><summary><b><a href="https://github.com/stkeky/best-of-scala">best-of-scala</a></b> (🥉10 ·  ⭐ 290) - A ranked list of awesome Scala projects. Updated weekly.</summary>
 
-- [GitHub](https://github.com/stkeky/best-of-scala) (👨‍💻 18 · 🔀 26):
+- [GitHub](https://github.com/stkeky/best-of-scala) (👨‍💻 18 · 🔀 25):
 
 	```
 	git clone https://github.com/stkeky/best-of-scala
@@ -245,7 +245,7 @@ _Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics relate
 	git clone https://github.com/thumbor/awesome-thumbor
 	```
 </details>
-<details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 21) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
+<details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 22) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
 
 - [GitHub](https://github.com/jinningwang/best-of-ps) (👨‍💻 9 · 🔀 1):
 
