@@ -92,7 +92,7 @@ _Best-of lists about react, vue, angular, html5, css, or other topics related to
 </details>
 <details><summary><b><a href="https://github.com/fkromer/best-of-django">best-of-django</a></b> (🥉8 ·  ⭐ 140) - A ranked list of awesome Django related Python packages. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/fkromer/best-of-django) (👨‍💻 4 · 🔀 14):
+- [GitHub](https://github.com/fkromer/best-of-django) (👨‍💻 5 · 🔀 15):
 
 	```
 	git clone https://github.com/fkromer/best-of-django
@@ -211,7 +211,7 @@ _Best-of lists with general overviews on tools & libraries for a specific progra
 
 _Best-of lists about internet, browsers, services, standards, identity and digital interactions_
 
-<details><summary><b><a href="https://github.com/jruizaranguren/best-of-digital-identity">best-of-digital-identity</a></b> (🥇9 ·  ⭐ 180) - A ranked list of awesome Digital Identity open source..</summary>
+<details><summary><b><a href="https://github.com/jruizaranguren/best-of-digital-identity">best-of-digital-identity</a></b> (🥇8 ·  ⭐ 180 · 📉) - A ranked list of awesome Digital Identity open source..</summary>
 
 - [GitHub](https://github.com/jruizaranguren/best-of-digital-identity) (👨‍💻 7 · 🔀 16):
 
